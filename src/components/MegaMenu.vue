@@ -18,7 +18,7 @@
 
 			<div class="drop-down-container">
 				<div class="grid-menu">
-					<div class="grid-items heading">
+					<div class="grid-items heading green-1">
 						mIDentity Line
 					</div>
 					<div class="grid-items item1">
@@ -47,7 +47,7 @@
 					</div>
 				</div>
 				<div class="grid-menu">
-					<div class="grid-items heading">
+					<div class="grid-items heading blue">
 						mPower Line
 					</div>
 					<div class="grid-items item2">
@@ -68,7 +68,7 @@
 					</div>
 				</div>
 				<div class="grid-menu">
-					<div class="grid-items heading">
+					<div class="grid-items heading orange">
 						Family
 					</div>
 					<div class="grid-items item3">
@@ -93,7 +93,7 @@
 					</div>
 				</div>
 				<div class="grid-menu">
-					<div class="grid-items heading">
+					<div class="grid-items heading gray">
 						Technology
 					</div>
 					<div class="grid-items item4">
@@ -140,6 +140,26 @@ $bg-hover-green : #6ec5ca1a;
 $bg-hover-blue : #489FFF1a;
 $bg-hover-orange : #FD9D5D1a;
 $bg-hover-gray : #9FA9BA1a;
+
+.green-1 {
+	color: $color-green-1;
+}
+
+.green-2 {
+	color: $color-green-2;
+}
+
+.blue {
+	color: $color-blue;
+}
+
+.orange {
+	color: $color-orange;
+}
+
+.gray {
+	color: $color-gray;
+}
 
 .mega-menu {
 	
